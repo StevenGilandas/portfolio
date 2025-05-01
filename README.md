@@ -1,5 +1,5 @@
 # Data Analyst
-:: **[Download Resume](https://bit.ly/StevenGilandasCV_2025)**
+:: **[Download Resume](https://tinyurl.com/StevenGilandasCV2025)**
 
 <a name="top"></a>
 
@@ -36,13 +36,13 @@ _To explore all projects please download repository ZIP/TAR_
 
 Developed a predictive model analysing Fitbit data over one month to correlate activity logging frequency with exercise efficiency and health outcomes, revealing key insights into daily calorie burn. Utilized Python, R, and Tableau for comprehensive data analysis and visualization.
 
-[Fitbit Data Study Tech Report](https://bit.ly/fitbitDataStudy_techReport_sg)
+[Fitbit Data Study Tech Report](https://tinyurl.com/fitbitDataStudy-techReport-sg)
 
-[Fitbit Data Study Presentation Deck](https://bit.ly/fitbitDataStudy_presentation)
+[Fitbit Data Study Presentation Deck](https://tinyurl.com/fitbitDataStudy-presentation)
 
-[Fitbit Data Study Tableau Graphics (download .twbx)](https://bit.ly/fitbit_tableauGraphics)
+[Fitbit Data Study Tableau Graphics (download .twbx)](https://tinyurl.com/fitbit-tableau)
 
-[Fitbit Data Study Jupyter Notebook (download .ipynb)](https://bit.ly/fitbit_pythonCode)  :: To run the project with associated dataset, please download the full github repository.  As this is a long notebook PyCharm is recommended so that you can easily jump between different sections.
+[Fitbit Data Study Jupyter Notebook (download .ipynb)](https://tinyurl.com/fitbit-jupyterNotebook)  :: To run the project with associated dataset, please download the full github repository.  As this is a long notebook PyCharm is recommended so that you can easily jump between different sections.
 
 ![Fitbit logo](/assets/img/fitbit_logo_sm.jpg)
 ![Fitbit calories burned by Activity Minutes](/assets/img/fitbit_caloriesBurned_byActivityMinutes.png)
@@ -56,11 +56,11 @@ Developed a predictive model analysing Fitbit data over one month to correlate a
 
 Analysed geographical distribution and efficiency of US wind farms, identifying operators and parent companies to guide investment decisions. Contributed to a group project that assessed turbine power generation, maintenance costs, and market trends, supporting investment strategies in the wind energy sector. Built using Python and Tableau.
 
-[Wind Farm Study Presentation](https://bit.ly/windFarm_finalPresDeck)
+[Wind Farm Study Presentation](https://tinyurl.com/windFarm-finalPresDeck)
 
-[Wind Farm Study Tableau Graphics(download .twbx)](https://bit.ly/windFarm_tableau)
+[Wind Farm Study Tableau Graphics(download .twbx)](https://tinyurl.com/windfarm-tableau)
 
-[Wind Farm Study Jupyter Notebook (download .ipnyb)](https://bit.ly/windfarm_fuzzywuzzyNotebook) :: Python code for matching windfarm operator names with parent company names using FuzzyWuzzy match.  
+[Wind Farm Study Jupyter Notebook (download .ipnyb)](https://tinyurl.com/windfarm-notebook) :: Python code for matching windfarm operator names with parent company names using FuzzyWuzzy match.  
 
 ![Gust Gurus logo](/assets/img/gust_gurus_logo_sm.png)
 ![Turbine efficiency by parent company](/assets/img/gust_gurus_efficiency_parentCompany.jpg)
@@ -84,9 +84,9 @@ _3. Customer details:_ Scatterplot: qty of product sold vs sales (labelled by cu
 
 _4. Customer location:_ Map: cities, bubble size = sales amount.  (filtered by: product group, region, year)
 
-[Global Food Distribution - Report](https://bit.ly/powerBI_globalFood_report)
+[Global Food Distribution - Report](https://tinyurl.com/powerBI-globalFood-report)
 
-[Global Food Distribution - Dashboard (download .pbix)](https://bit.ly/powerBI_globalFood_dashboard)
+[Global Food Distribution - Dashboard (download .pbix)](https://tinyurl.com/powerBI-globalFood-dashboard)
 
 ![PowerBI 1 - HighLevel](/assets/img/powerBI_1_highLevel.png)
 ![PowerBI 2 - Products](/assets/img/powerBI_2_products.png)
@@ -99,7 +99,7 @@ _4. Customer location:_ Map: cities, bubble size = sales amount.  (filtered by: 
 ### COVID Data Journalism (Tableau Story) | General Assembly (Dec 2023) <sub><sup><a href="#top" style="font-size:smaller;">↑ Back to Top</a></sup></sub>
 Analysis of COVID dataset from Our World In Data: used a series of Tableau visualisations to address the question "Where is the coronavirus situation the worst?"  Animation of global spread was created, looking at population adjusted cases by month.  Density of cases was compared with death rates across the same countries.  CFR (Case Fatality Ratio) was calculated to assess burden of disease from COVID by country. Countries with highest deaths (poor performers) per million vs countries with lowest CFR (good performers) were compared across a number of metrics including: testing and vaccination rates, population density, available hospital beds, lockdown severity, wealth, life expectancy, burden of chronic disease, age distribution. 
 
-[COVID Data Journalism - Tableau Story (download .twbx)](https://bit.ly/COVID_dataJournalism_tableau)
+[COVID Data Journalism - Tableau Story (download .twbx)](https://tinyurl.com/COVID-dataJournalism-tableau)
 
 ![COVID Data Journalism](/assets/img/tableau_covid_dataJournalism.png)
 
@@ -110,7 +110,7 @@ Analysis of COVID dataset from Our World In Data: used a series of Tableau visua
 ### Iowa Liquor Sales Analysis - SQL | General Assembly (Nov 2023) <sub><sup><a href="#top" style="font-size:smaller;">↑ Back to Top</a></sup></sub>
 Data analysis of liquor sales across various counties in Iowa - used online database of alcohol sales in Iowa 2014.  Top performing products and vendors were identified, and sales report was generated.  Trend of sales by month was analysed.  Distribution of stores by latitude and longitude was analysed.  Daily alcohol spend per capita by county was calculated and visualised on a map using Tableau.
 
-[Iowa Liquor Sales Analysis (Notion page)](https://bit.ly/IowaLiquorSalesLab_Notion)
+[Iowa Liquor Sales Analysis (Notion page)](https://tinyurl.com/IowaLiquorSalesLab-Notion)
 
 ![COVID Data Journalism](/assets/img/sql_alcohol_sales_tableauGraphic.png)
 
