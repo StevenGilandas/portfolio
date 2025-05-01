@@ -113,7 +113,7 @@ Analysis of COVID dataset from Our World In Data: used a series of Tableau visua
 ### Iowa Liquor Sales Analysis - SQL | General Assembly (Nov 2023) <sub><sup><a href="#top" style="font-size:smaller;">↑ Back to Top</a></sup></sub>
 Data analysis of liquor sales across various counties in Iowa - used online database of alcohol sales in Iowa 2014.  Top performing products and vendors were identified, and sales report was generated.  Trend of sales by month was analysed.  Distribution of stores by latitude and longitude was analysed.  Daily alcohol spend per capita by county was calculated and visualised on a map using Tableau.
 
-[Iowa Liquor Sales Analysis (Notion page)](https://tinyurl.com/IowaLiquorSalesLab-Notion)
+[Iowa Liquor Sales Analysis (Notion page)](https://tinyurl.com/IowaLiquorSales-notionPage)
 
 ![COVID Data Journalism](/assets/img/sql_alcohol_sales_tableauGraphic.png)
 
