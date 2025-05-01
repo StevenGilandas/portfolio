@@ -59,7 +59,7 @@ Analysed geographical distribution and efficiency of US wind farms, identifying 
 
 [Wind Farm Study Presentation](https://tinyurl.com/windFarm-finalPresDeck)
 
-[Wind Farm Study Tableau Graphics(download .twbx)](https://tinyurl.com/windfarm-graphics02)
+[Wind Farm Study Tableau Graphics (download .twbx)](https://tinyurl.com/windfarm-graphics02)
 
 [Wind Farm Study Jupyter Notebook (download .ipnyb)](https://tinyurl.com/windfarm-notebook) :: Python code for matching windfarm operator names with parent company names using FuzzyWuzzy match.  
 
