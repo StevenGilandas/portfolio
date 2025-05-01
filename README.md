@@ -1,5 +1,5 @@
 # Data Analyst
-:: **[Download Resume](https://bit.ly/StevenGilandasCV_2024)**
+:: **[Download Resume](https://bit.ly/StevenGilandasCV_2025)**
 
 <a name="top"></a>
 
